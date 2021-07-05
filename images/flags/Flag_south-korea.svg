@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 180 179.5" style="enable-background:new 0 0 180 179.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#3C2F18;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#B50037;}
+	.st4{fill:#1E3476;}
+</style>
+<path class="st0" d="M6,80.7c-5.3,53.2,39.1,97.6,92.3,92.3c39.4-3.9,71.3-35.8,75.2-75.2c5.3-53.2-39.1-97.6-92.3-92.3
+	C41.8,9.5,9.9,41.3,6,80.7z"/>
+<g>
+	<g>
+		<g>
+			<defs>
+				<path id="SVGID_1_" d="M20.2,98.4c3.9,31.2,29.2,56.5,60.4,60.4c45.9,5.8,84.4-32.8,78.7-78.7c-3.9-31.3-29.2-56.5-60.4-60.4
+					c-3.1-0.4-6.1-0.6-9.1-0.6C48,19.2,14.8,55.7,20.2,98.4"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st1">
+				<rect x="-44" y="11.6" class="st2" width="268" height="156.3"/>
+				<g>
+					<polygon points="123.9,48.8 131.7,60.4 127.5,63.3 119.7,51.6 					"/>
+					<polygon points="133.1,62.6 140.9,74.2 136.6,77 128.9,65.4 					"/>
+					<rect x="134.1" y="43.4" transform="matrix(0.8322 -0.5545 0.5545 0.8322 -9.6117 85.6342)" width="5.1" height="30.6"/>
+					<polygon points="136.6,40.3 144.4,52 140.2,54.8 132.4,43.1 					"/>
+					<polygon points="145.8,54.1 153.6,65.8 149.4,68.6 141.6,56.9 					"/>
+					<rect x="47.2" y="101.3" transform="matrix(0.8319 -0.5549 0.5549 0.8319 -56.3311 47.2002)" width="5.1" height="30.6"/>
+					<polygon points="37,106.7 44.8,118.4 40.5,121.2 32.8,109.6 					"/>
+					<rect x="45.4" y="120.7" transform="matrix(0.8324 -0.5542 0.5542 0.8324 -62.7484 47.9651)" width="5.1" height="14"/>
+					<polygon points="30.7,111 47.6,136.4 43.4,139.2 26.4,113.8 					"/>
+					<polygon points="39.1,74.2 56.1,48.8 60.3,51.6 43.4,77 					"/>
+					<rect x="28.1" y="56.1" transform="matrix(0.5545 -0.8322 0.8322 0.5545 -29.4653 62.2161)" width="30.6" height="5.1"/>
+					<polygon points="26.4,65.8 43.4,40.3 47.6,43.1 30.7,68.6 					"/>
+					<polygon points="119.7,127.9 127.5,116.3 131.7,119.1 123.9,130.7 					"/>
+					<polygon points="128.9,114.2 136.6,102.5 140.9,105.3 133.1,117 					"/>
+					<rect x="125" y="125.2" transform="matrix(0.5545 -0.8322 0.8322 0.5545 -47.5298 166.7988)" width="14" height="5.1"/>
+					<polygon points="135.2,118.4 143,106.7 147.3,109.6 139.5,121.2 					"/>
+					<polygon points="132.4,136.4 140.2,124.8 144.4,127.6 136.6,139.2 					"/>
+					<polygon points="141.6,122.6 149.4,111 153.6,113.8 145.8,125.4 					"/>
+					<path class="st3" d="M107,64.3c-14.1-9.4-33-5.5-42.4,8.5c-4.7,7-2.8,16.5,4.2,21.2s16.5,2.8,21.2-4.2c4.7-7,14.2-8.9,21.2-4.2
+						c7,4.7,8.9,14.2,4.2,21.2C124.8,92.7,121,73.7,107,64.3"/>
+					<path class="st4" d="M64.6,72.8c-4.7,7-2.8,16.5,4.2,21.2s16.5,2.8,21.2-4.2c4.7-7,14.2-8.9,21.2-4.2c7,4.7,8.9,14.2,4.2,21.2
+						c-9.4,14.1-28.3,17.9-42.4,8.5C59,105.8,55.2,86.9,64.6,72.8"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

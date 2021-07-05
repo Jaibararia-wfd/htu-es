@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="/images/favicon.png" type="image/png" sizes="121x121">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js" integrity="sha384-SlE991lGASHoBfWbelyBPLsUlwY1GwNDJo3jSJO04KZ33K2bwfV9YBauFfnzvynJ" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light nav-mob">
+      <div class="row">
+        <a class="navbar-brand" href="{% tl htuhome %}"><img class="cell-logo" src="/images/HTU_logo.png" alt="flower"></a>
+
+        <div class="col-md-1" style="margin-top: 1.5rem;">
+          <div class="fb-share-button" data-href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-layout="button_count" data-size="small" data-mobile-iframe="true">
+            <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}">
+                <img class="icon" src="/images/facebook-black.png" alt="fb profile HTU">
+            </a>
+          </div>
+      </div>
+
+      <div class="col-md-5" style="text-align: right;">
+          <ul class="dot">
+            <li class="main-li bullet"><a href="https://www.howtouseabortionpill.org/es/howto/"><span class="violet"><strong>Cómo usar la pastilla para abortar</strong></span></a></li>
+            <li class="main-li bullet"><a href="https://www.howtouseabortionpill.org/es/abortion-pill-between-10-and-11-weeks/"><span class="violet"><strong>Aborto entre 10 y 11 semanas</strong></span></a></li>
+            <li class="main-li bullet"><a href="https://www.howtouseabortionpill.org/es/faq/"><span class="violet"><strong>Preguntas frecuentes</strong></span></a></li>
+          </ul>
+      </div>
+      </div>
+    </nav>
+    
+    
+    <div class="nav-desk">
+      <div class="nav-img-desk">
+        <a class="navbar-brand notdisplay-logo" href="{% tl htuhome %}"><img class="top-logo" src="/images/HTU_logo.png" alt="flower"></a>
+      </div>
+      <hr>
+        <nav class="padding-zero">
+          <ul class="nav justify-content-center drop-list">
+            <div class="col-md-1" style="margin-top: 1.5rem;">
+              <div class="fb-share-button" data-href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-layout="button_count" data-size="small" data-mobile-iframe="true">
+                <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}">
+                    <img class="icon" src="/images/facebook-black.png" alt="fb profile HTU">
+                </a>
+              </div>
+          </div>
+    
+          <div class="col-md-5" style="text-align: right;">
+            <ul class="dot">
+              <li class="main-li bullet"><a href="https://www.howtouseabortionpill.org/es/howto/"><span class="violet"><strong>Cómo usar la pastilla para abortar</strong></span></a></li>
+              <li class="main-li bullet"><a href="https://www.howtouseabortionpill.org/es/abortion-pill-between-10-and-11-weeks/"><span class="violet"><strong>Aborto entre 10 y 11 semanas</strong></span></a></li>
+              <li class="main-li bullet"><a href="https://www.howtouseabortionpill.org/es/faq/"><span class="violet"><strong>Preguntas frecuentes</strong></span></a></li>
+            </ul>
+          </div>
+          </ul>  
+        </nav>
+      <hr>
+    </div>    
+  <div class="container-page">
+    {{ content }}
+  </div>
+
+
+
+  </body>
+</html>

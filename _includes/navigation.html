@@ -1,0 +1,70 @@
+
+<nav class="navbar navbar-expand-lg navbar-light nav-mob">
+  <div class="row">
+  <button class="bt-menu" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar"><img class="menu-i" src="/images/menu.png" alt="hamburguer icon"></span>
+  </button>
+    <a class="navbar-brand" href="{% tl htuhome %}"><img class="cell-logo" src="/images/HTU_logo.png" alt="flower"></a>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav drop-list">
+        <li class="nav-item nav-list"><a class="nav-link" href="{% tl htuabout %}">{% t navigation.about %}</a></li>
+        <li class="nav-item dropdown nav-list">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{% t navigation.howto %}</a>
+          <div class="dropdown-menu second-drop" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item drop-list" href="{% tl htubefore %}">{% t navigation.before %}</a>
+            <a class="dropdown-item drop-list" href="{% tl htuhowto %}">{% t navigation.howto %}</a>
+            <a class="dropdown-item drop-list" href="{% tl htuafter %}">{% t navigation.after %}</a>
+            <a class="dropdown-item drop-list" href="{% tl htubetween %}">{% t navigation.between %}</a>
+          </div>
+        </li>
+        <li class="nav-item nav-list"><a class="nav-link" href="{% tl hturegions %}">{% t navigation.region %}</a></li>
+        <li class="nav-item dropdown nav-list">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{% t navigation.elearning %}</a>
+          <div class="dropdown-menu second-drop" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item drop-list" href="{% tl htucourse %}">{% t navigation.online_course %}</a>
+            <a class="dropdown-item drop-list" target="_blank" href="https://elearning.howtouseabortionpill.org/" rel="noopener">{% t navigation.certificate %}</a>
+          </div>
+        </li>
+        <li class="nav-item nav-list"><a class="nav-link" href="{% tl htufaqs %}">{% t navigation.faq %}</a></li>
+        <li class="nav-item nav-list"><a class="nav-link" href="{% tl htuaboutus %}">{% t navigation.aboutus %}</a></li>
+        <li class="nav-item nav-list"><a class="nav-link" href="{% tl htublog %}">{% t navigation.blog %}</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+<div class="nav-desk">
+  <div class="nav-img-desk">
+    <a class="navbar-brand notdisplay-logo" href="{% tl htuhome %}"><img class="top-logo" src="/images/HTU_logo.png" alt="flower"></a>
+  </div>
+  <hr>
+    <nav class="padding-zero">
+      <ul class="nav justify-content-center drop-list">
+        <li class="nav-item"><a class="nav-link nav-list" href="{% tl htuabout %}">{% t navigation.about %}</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle nav-list" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">{% t navigation.howto %}</a>
+          <div class="dropdown-menu second-drop">
+            <a class="dropdown-item drop-list" href="{% tl htubefore %}">{% t navigation.before %}</a>
+            <a class="dropdown-item drop-list" href="{% tl htuhowto %}">{% t navigation.howto %}</a>
+            <a class="dropdown-item drop-list" href="{% tl htuafter %}">{% t navigation.after %}</a>
+            <a class="dropdown-item drop-list" href="{% tl htubetween %}">{% t navigation.between %}</a>
+          </div>
+        </li>
+        <li class="nav-item"><a class="nav-link nav-list" href="{% tl hturegions %}">{% t navigation.region %}</a></li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle nav-list" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">{% t navigation.elearning %}</a>
+            <div class="dropdown-menu second-drop">
+              <a class="dropdown-item drop-list" href="{% tl htucourse %}">{% t navigation.online_course %}</a>
+              <a class="dropdown-item drop-list" target="_blank" href="https://elearning.howtouseabortionpill.org/" rel="noopener">{% t navigation.certificate %}</a>
+            </div>
+          </li>
+        </li>
+        <li class="nav-item"><a class="nav-link nav-list" href="{% tl htufaqs %}">{% t navigation.faq %}</a></li>
+        <li class="nav-item"><a class="nav-link nav-list" href="{% tl htuaboutus %}">{% t navigation.aboutus %}</a></li>
+        <li class="nav-item"><a class="nav-link nav-list" href="{% tl htublog %}">{% t navigation.blog %}</a></li>
+      </ul>  
+    </nav>
+  <hr>
+</div>
+

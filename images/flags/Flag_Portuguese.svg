@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 57.4 57.9" style="enable-background:new 0 0 57.4 57.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.8;fill:#FCC549;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#73629A;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st3{fill:#73629A;stroke:#73629A;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#73629A;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:9;stroke-miterlimit:10;}
+	.st6{fill:#6CC5DB;}
+	.st7{fill:#73629A;}
+	.st8{fill:#F5C153;}
+	.st9{fill:#FFFFFF;stroke:#8778B3;stroke-miterlimit:10;}
+	.st10{clip-path:url(#SVGID_2_);}
+	.st11{clip-path:url(#SVGID_4_);fill:#C73B3C;}
+	.st12{clip-path:url(#SVGID_4_);fill:#ECD652;}
+	.st13{clip-path:url(#SVGID_4_);fill:#336B44;}
+	.st14{clip-path:url(#SVGID_4_);}
+	.st15{clip-path:url(#SVGID_6_);fill:#55A0CE;}
+	.st16{clip-path:url(#SVGID_6_);fill:#ECD652;}
+	.st17{clip-path:url(#SVGID_6_);}
+	.st18{fill:#ECD652;}
+	.st19{clip-path:url(#SVGID_8_);}
+	.st20{fill-rule:evenodd;clip-rule:evenodd;}
+	.st21{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st22{fill-rule:evenodd;clip-rule:evenodd;fill:#E42535;}
+	.st23{fill-rule:evenodd;clip-rule:evenodd;fill:#CACACA;}
+	.st24{fill-rule:evenodd;clip-rule:evenodd;fill:#F4C343;}
+	.st25{clip-path:url(#SVGID_10_);}
+	.st26{fill:#E42535;}
+	.st27{fill:#179F56;}
+	.st28{fill:#EDCA50;}
+	.st29{fill:none;}
+	.st30{clip-path:url(#SVGID_12_);}
+	.st31{clip-path:url(#SVGID_14_);fill:#C32732;}
+	.st32{clip-path:url(#SVGID_14_);fill:#F1D74F;}
+	.st33{clip-path:url(#SVGID_16_);}
+	.st34{clip-path:url(#SVGID_20_);fill:#FFFFFF;}
+	.st35{opacity:0.75;clip-path:url(#SVGID_20_);fill:#F90D1B;}
+	.st36{clip-path:url(#SVGID_20_);fill:#030C7E;}
+	.st37{clip-path:url(#SVGID_24_);}
+	.st38{clip-path:url(#SVGID_26_);fill:#34448C;}
+	.st39{clip-path:url(#SVGID_26_);fill:#FFFFFF;}
+	.st40{clip-path:url(#SVGID_26_);fill:#CF273D;}
+	.st41{clip-path:url(#SVGID_28_);}
+	.st42{fill:#2978B3;}
+	.st43{clip-path:url(#SVGID_30_);}
+	.st44{clip-path:url(#SVGID_32_);fill:#3D8156;}
+	.st45{clip-path:url(#SVGID_32_);fill:#FFFFFF;}
+	.st46{clip-path:url(#SVGID_34_);}
+	.st47{clip-path:url(#SVGID_36_);fill:#C32732;}
+	.st48{clip-path:url(#SVGID_36_);fill:#F1D74F;}
+	.st49{clip-path:url(#SVGID_38_);}
+	.st50{clip-path:url(#SVGID_40_);fill:#FFFFFF;}
+	.st51{clip-path:url(#SVGID_40_);fill:#316738;}
+	.st52{clip-path:url(#SVGID_40_);}
+	.st53{clip-path:url(#SVGID_42_);fill:#FFFFFF;}
+	.st54{clip-path:url(#SVGID_42_);fill:#316738;}
+	.st55{clip-path:url(#SVGID_44_);}
+	.st56{clip-path:url(#SVGID_46_);fill:#AD2434;}
+	.st57{clip-path:url(#SVGID_46_);fill:#EEBD49;}
+	.st58{clip-path:url(#SVGID_46_);}
+	.st59{fill:#95202E;}
+	.st60{fill:#BCAB47;}
+	.st61{fill:#43896F;}
+	.st62{fill:#3F5FA1;}
+	.st63{fill:#C6C6C6;}
+	.st64{fill:#BAAE48;}
+	.st65{fill:#C24250;}
+	.st66{fill:#D66FA2;}
+	.st67{fill:#F1CF95;}
+	.st68{fill:#47569B;}
+	.st69{clip-path:url(#SVGID_48_);fill:#3F5FA1;}
+	.st70{clip-path:url(#SVGID_50_);}
+	.st71{fill:#314490;}
+	.st72{fill:#B4253A;}
+	.st73{clip-path:url(#SVGID_52_);}
+	.st74{clip-path:url(#SVGID_54_);fill:#428C4A;}
+	.st75{clip-path:url(#SVGID_54_);fill:#E7BB46;}
+	.st76{clip-path:url(#SVGID_54_);}
+	.st77{clip-path:url(#SVGID_56_);fill:#302B68;}
+	.st78{clip-path:url(#SVGID_56_);fill:#FFFFFF;}
+	.st79{clip-path:url(#SVGID_56_);}
+	.st80{fill-rule:evenodd;clip-rule:evenodd;fill:#428C4A;}
+	.st81{clip-path:url(#SVGID_58_);}
+	.st82{clip-path:url(#SVGID_60_);fill:#FFFFFF;}
+	.st83{clip-path:url(#SVGID_60_);fill:#4E9A4F;}
+	.st84{clip-path:url(#SVGID_60_);fill:#BE2632;}
+	.st85{clip-path:url(#SVGID_60_);}
+	.st86{clip-path:url(#SVGID_62_);fill:#BE2632;}
+	.st87{clip-path:url(#SVGID_62_);fill:#FFFFFF;}
+	.st88{clip-path:url(#SVGID_64_);}
+	.st89{clip-path:url(#SVGID_66_);fill:#FFFFFF;}
+	.st90{clip-path:url(#SVGID_66_);}
+	.st91{clip-path:url(#SVGID_66_);fill:#316738;}
+	.st92{clip-path:url(#SVGID_68_);}
+	.st93{fill:#8778B3;}
+	.st94{clip-path:url(#SVGID_68_);fill:#FFFFFF;}
+	.st95{clip-path:url(#SVGID_68_);fill:#A2232B;}
+	.st96{clip-path:url(#SVGID_70_);}
+	.st97{clip-path:url(#SVGID_72_);fill:#6080B9;}
+	.st98{clip-path:url(#SVGID_72_);fill:#FFFFFF;}
+	.st99{clip-path:url(#SVGID_74_);}
+	.st100{clip-path:url(#SVGID_76_);fill:#FFFFFF;}
+	.st101{clip-path:url(#SVGID_76_);fill:#E8904F;}
+	.st102{clip-path:url(#SVGID_76_);fill:#428447;}
+	.st103{clip-path:url(#SVGID_76_);}
+	.st104{clip-path:url(#SVGID_78_);fill:#2B2C70;}
+	.st105{clip-path:url(#SVGID_78_);fill:#FFFFFF;}
+	.st106{clip-path:url(#SVGID_80_);}
+	.st107{clip-path:url(#SVGID_82_);fill:#CF273D;}
+	.st108{clip-path:url(#SVGID_82_);fill:#FFFFFF;}
+	.st109{clip-path:url(#SVGID_84_);}
+	.st110{clip-path:url(#SVGID_86_);fill:#C82635;}
+	.st111{clip-path:url(#SVGID_86_);}
+	.st112{clip-path:url(#SVGID_88_);fill:#FFFFFF;}
+	.st113{clip-path:url(#SVGID_88_);fill:#C82635;}
+	.st114{clip-path:url(#SVGID_90_);}
+	.st115{clip-path:url(#SVGID_92_);}
+	.st116{fill:#2F3480;}
+	.st117{fill:#B2252F;}
+	.st118{fill:#FFFFFF;stroke:#B2252F;stroke-width:0.1;stroke-miterlimit:10;}
+	.st119{opacity:0.7;fill:#73BFD3;}
+	.st120{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:4;stroke-miterlimit:10;}
+	.st121{clip-path:url(#SVGID_94_);fill:#2A3F84;}
+	.st122{clip-path:url(#SVGID_94_);fill:#B4253A;}
+	.st123{clip-path:url(#SVGID_94_);}
+	.st124{clip-path:url(#SVGID_96_);fill:#FFFFFF;}
+	.st125{fill:none;stroke:#F0BC5C;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st126{opacity:0.8;fill:#FFFFFF;}
+	.st127{fill:#AFE6EF;}
+	.st128{fill:#AFE6EF;stroke:#73629A;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st129{fill:#FCC549;}
+	.st130{opacity:0.9;fill:#FFFFFF;}
+	.st131{opacity:0.8;}
+	.st132{display:none;}
+	.st133{display:inline;}
+	.st134{fill:#FFE2C9;}
+	.st135{fill:none;stroke:#FCC549;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st136{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st137{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st138{fill:none;stroke:#3C2F16;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st139{fill:#DEE7FF;}
+	.st140{fill:#3C2F16;}
+	.st141{fill:none;stroke:#3C2F16;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:9.9901,4.995;}
+	.st142{fill:#B4CAF6;}
+</style>
+<g id="MESA_DE_TRABAJO">
+	<g>
+		<path class="st9" d="M1.4,26.1C-0.3,43.5,14.1,58,31.5,56.2C44.3,55,54.7,44.6,56,31.7C57.7,14.4,43.2-0.1,25.9,1.6
+			C13,2.9,2.7,13.3,1.4,26.1z"/>
+		<g>
+			<defs>
+				<path id="SVGID_51_" d="M51.5,26c1.9,15-10.7,27.5-25.6,25.6C15.6,50.3,7.4,42.1,6.1,31.9C4.2,17,16.8,4.4,31.8,6.3
+					C42,7.5,50.2,15.8,51.5,26z"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_51_"  style="overflow:visible;"/>
+			</clipPath>
+			<g id="BRAZIL_2_" class="st10">
+				<g>
+					<g>
+						<defs>
+							<rect id="SVGID_53_" x="-10.9" y="5.8" width="79.4" height="46.3"/>
+						</defs>
+						<clipPath id="SVGID_4_">
+							<use xlink:href="#SVGID_53_"  style="overflow:visible;"/>
+						</clipPath>
+						<rect x="-10.9" y="5.8" style="clip-path:url(#SVGID_4_);fill:#428C4A;" width="79.4" height="46.3"/>
+						<polygon style="clip-path:url(#SVGID_4_);fill:#E7BB46;" points="1.3,28.9 28.8,46.5 56.3,28.9 28.8,11.4 						"/>
+						<g class="st14">
+							<defs>
+								<rect id="SVGID_55_" x="-10.9" y="5.8" width="79.4" height="46.3"/>
+							</defs>
+							<clipPath id="SVGID_6_">
+								<use xlink:href="#SVGID_55_"  style="overflow:visible;"/>
+							</clipPath>
+							<path style="clip-path:url(#SVGID_6_);fill:#302B68;" d="M40.4,28.9c0,6.4-5.2,11.6-11.6,11.6c-6.4,0-11.6-5.2-11.6-11.6
+								c0-6.4,5.2-11.6,11.6-11.6C35.2,17.3,40.4,22.5,40.4,28.9"/>
+							<path style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" d="M22.2,24c-1.4,0-2.7,0.1-4,0.3c-0.2,0.6-0.5,1.2-0.6,1.8
+								c1.5-0.3,3-0.4,4.6-0.4c6.8,0,13,2.6,17.7,6.8c0.2-0.6,0.3-1.2,0.4-1.8C35.4,26.4,29.1,24,22.2,24"/>
+							<g class="st17">
+								<path class="st80" d="M18.8,24.5c-0.3,0-0.5,0.3-0.4,0.6c0,0.3,0.3,0.5,0.6,0.5c0.3,0,0.5-0.3,0.4-0.6
+									C19.3,24.6,19,24.4,18.8,24.5z M18.9,25.3c-0.2,0-0.3-0.1-0.3-0.3c0-0.2,0.1-0.4,0.2-0.4c0.2,0,0.3,0.1,0.3,0.3
+									C19.1,25.2,19,25.3,18.9,25.3z"/>
+								<path class="st80" d="M20.7,24.6c0-0.2-0.2-0.3-0.4-0.3l-0.6,0l0.1,1.1l0.2,0l0-0.4l0.4,0c0.1,0.1,0.1,0.3,0.2,0.4l0.2,0
+									c0-0.1,0-0.4-0.2-0.4C20.7,24.9,20.8,24.8,20.7,24.6z M20,24.8l0-0.3l0.4,0c0.1,0,0.1,0,0.1,0.1c0,0.1-0.1,0.1-0.1,0.2
+									L20,24.8z"/>
+								<path class="st80" d="M21.7,24.2l-0.5,0l0,1.1l0.5,0c0.3,0,0.5-0.2,0.5-0.5l0-0.2C22.2,24.5,22,24.2,21.7,24.2z M22,24.8
+									c0,0.2-0.1,0.3-0.3,0.3l-0.3,0l0-0.7l0.3,0C21.9,24.5,22,24.6,22,24.8L22,24.8z"/>
+								<polygon class="st80" points="22.8,24.9 23.4,24.9 23.4,24.7 22.8,24.7 22.8,24.5 23.6,24.5 23.6,24.3 22.6,24.2 22.6,25.4 
+									23.6,25.4 23.6,25.2 22.8,25.1 								"/>
+								<polygon class="st80" points="24.5,25.1 24.4,24.3 24.1,24.3 24,25.4 24.2,25.4 24.3,24.7 24.4,25.4 24.6,25.5 24.9,24.7 
+									24.8,25.5 25,25.5 25.1,24.4 24.8,24.4 								"/>
+								<polygon class="st80" points="26.3,25.7 27.1,25.8 27.1,25.6 26.5,25.5 26.6,25.3 27.1,25.4 27.1,25.2 26.6,25.1 26.6,24.9 
+									27.2,25 27.2,24.8 26.5,24.7 								"/>
+								<path class="st80" d="M29.3,25.2L28.7,25l-0.3,1.1l0.2,0.1l0.1-0.4l0.4,0.1c0.2,0.1,0.4-0.1,0.4-0.2
+									C29.6,25.4,29.5,25.2,29.3,25.2z M29.2,25.6l-0.4-0.1l0.1-0.3l0.4,0.1c0.1,0,0.1,0.1,0.1,0.2C29.3,25.6,29.2,25.7,29.2,25.6
+									z"/>
+								<path class="st80" d="M30.7,25.6l-0.6-0.2l-0.3,1l0.2,0.1l0.1-0.4l0.4,0.1c0.1,0.1,0,0.3,0,0.4l0.2,0.1c0-0.1,0.1-0.3,0-0.5
+									c0.1,0,0.2-0.1,0.3-0.2C31,25.8,30.9,25.6,30.7,25.6z M30.5,26l-0.4-0.1l0.1-0.3l0.4,0.1c0.1,0,0.1,0.1,0.1,0.2
+									C30.7,26,30.6,26.1,30.5,26z"/>
+								<path class="st80" d="M31.9,26c-0.3-0.1-0.6,0.1-0.7,0.3c-0.1,0.3,0,0.6,0.3,0.7c0.3,0.1,0.6-0.1,0.7-0.3
+									C32.3,26.4,32.2,26.1,31.9,26z M32,26.6c-0.1,0.2-0.2,0.3-0.4,0.2c-0.1-0.1-0.2-0.2-0.2-0.4c0.1-0.2,0.2-0.3,0.4-0.2
+									C32,26.3,32.1,26.4,32,26.6z"/>
+								<path class="st80" d="M33.3,26.6c-0.2-0.1-0.5,0-0.7,0.3c-0.1,0.3,0,0.6,0.2,0.7c0.1,0.1,0.3,0,0.4,0l-0.1,0.1l0.1,0.1
+									l0.2-0.5C33.6,27,33.5,26.7,33.3,26.6z M32.9,27.4c-0.2-0.1-0.2-0.3-0.1-0.4c0.1-0.2,0.3-0.3,0.4-0.2
+									c0.1,0.1,0.2,0.3,0.1,0.4l-0.2-0.1l-0.1,0.1l0.2,0.1C33.1,27.4,33,27.4,32.9,27.4z"/>
+								<path class="st80" d="M34.7,27.2L34.2,27l-0.5,1l0.2,0.1l0.2-0.4l0.4,0.2c0,0.2,0,0.3-0.1,0.4l0.2,0.1
+									c0.1-0.1,0.2-0.3,0.1-0.5c0.1,0,0.2-0.1,0.3-0.2C35,27.5,34.9,27.3,34.7,27.2z M34.7,27.6c0,0.1-0.1,0.1-0.2,0.1l-0.4-0.2
+									l0.1-0.3l0.4,0.2C34.7,27.5,34.7,27.5,34.7,27.6z"/>
+								<polygon class="st80" points="36.2,28.3 36.3,28.1 35.5,27.6 34.9,28.6 35.8,29.1 35.9,28.9 35.2,28.5 35.3,28.2 35.9,28.6 
+									36,28.4 35.4,28.1 35.5,27.9 								"/>
+								<path class="st80" d="M37.2,28.6c-0.1-0.1-0.4-0.3-0.6,0c-0.2,0.3,0.5,0.6,0.4,0.8c0,0.1-0.1,0.1-0.3,0
+									c-0.1-0.1-0.2-0.2-0.1-0.3L36.3,29c-0.1,0.2,0.1,0.5,0.2,0.6c0.2,0.1,0.4,0.2,0.6,0c0.2-0.3-0.5-0.6-0.4-0.8
+									c0.1-0.1,0.1-0.1,0.2,0c0.1,0.1,0.2,0.2,0.1,0.3l0.2,0.1C37.5,28.9,37.3,28.7,37.2,28.6z"/>
+								<path class="st80" d="M38.4,29.4c-0.1-0.1-0.4-0.3-0.6,0c-0.2,0.3,0.4,0.6,0.3,0.8c0,0.1-0.1,0.1-0.3,0
+									c-0.1-0.1-0.2-0.2-0.1-0.3l-0.2-0.1c-0.2,0.2,0.1,0.5,0.2,0.6c0.2,0.1,0.4,0.2,0.6,0c0.2-0.3-0.4-0.6-0.3-0.8
+									c0.1-0.1,0.1-0.1,0.2,0c0.1,0.1,0.2,0.2,0.1,0.3l0.2,0.1C38.7,29.7,38.5,29.5,38.4,29.4z"/>
+								<path class="st80" d="M39.5,30.3c-0.2-0.2-0.5-0.1-0.7,0.1c-0.2,0.2-0.2,0.6,0,0.7c0.2,0.2,0.5,0.1,0.7-0.1
+									C39.7,30.8,39.7,30.5,39.5,30.3z M39.4,30.9c-0.1,0.2-0.3,0.2-0.4,0.1c-0.1-0.1-0.1-0.3,0-0.5c0.1-0.2,0.3-0.2,0.4-0.1
+									C39.5,30.6,39.5,30.8,39.4,30.9z"/>
+							</g>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="19.3,26.4 19.2,26.8 19.4,26.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="19.3,26.4 19.5,26.8 19.3,26.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="19.8,26.7 19.3,26.7 19.3,26.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="19.8,26.7 19.4,27 19.3,26.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="18.9,26.7 19.3,27 19.4,26.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="18.9,26.7 19.4,26.7 19.4,26.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="19.6,27.3 19.5,26.8 19.2,26.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="19.6,27.3 19.2,27 19.4,26.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="19,27.3 19.4,27 19.3,26.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="19,27.3 19.2,26.8 19.4,26.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="20.4,31.2 20.2,31.7 20.4,31.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="20.4,31.2 20.5,31.7 20.3,31.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="20.8,31.6 20.3,31.6 20.3,31.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="20.8,31.6 20.4,31.9 20.3,31.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="19.9,31.6 20.3,31.9 20.4,31.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="19.9,31.6 20.4,31.6 20.4,31.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="20.7,32.1 20.5,31.7 20.3,31.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="20.7,32.1 20.2,31.8 20.4,31.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="20.1,32.1 20.5,31.8 20.3,31.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="20.1,32.1 20.2,31.7 20.5,31.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="18.9,32.4 18.8,32.8 19,32.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="18.9,32.4 19,32.8 18.9,32.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="19.3,32.7 18.9,32.7 18.9,32.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="19.3,32.7 19,32.9 18.9,32.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="18.6,32.7 18.9,32.9 19,32.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="18.6,32.7 19,32.7 19,32.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="19.1,33 19,32.7 18.9,32.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="19.1,33 18.9,32.8 19,32.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="18.7,33 19,32.8 18.9,32.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="18.7,33 18.8,32.7 19,32.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="21.5,30.8 21.4,31 21.5,31 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="21.5,30.8 21.6,31 21.5,31 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="21.7,30.9 21.5,30.9 21.5,31.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="21.7,30.9 21.5,31.1 21.5,31 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="21.3,30.9 21.5,31.1 21.5,31 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="21.3,30.9 21.5,30.9 21.5,31.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="21.6,31.2 21.6,31 21.5,31 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="21.6,31.2 21.4,31.1 21.5,31 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="21.4,31.2 21.5,31.1 21.5,31 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="21.4,31.2 21.4,31 21.5,31 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="22.8,32.5 22.6,32.9 22.8,32.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="22.8,32.5 22.9,32.9 22.7,32.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="23.2,32.8 22.7,32.8 22.7,33 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="23.2,32.8 22.8,33 22.7,32.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="22.4,32.8 22.7,33 22.8,32.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="22.4,32.8 22.8,32.8 22.8,33 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="23,33.2 22.9,32.8 22.7,32.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="23,33.2 22.7,33 22.8,32.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="22.5,33.2 22.9,33 22.7,32.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="22.5,33.2 22.7,32.8 22.8,32.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="22.4,33.6 22.3,34 22.5,34.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="22.4,33.6 22.5,34 22.4,34.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="22.8,33.9 22.4,33.9 22.4,34.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="22.8,33.9 22.5,34.1 22.4,34 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="22,33.9 22.4,34.1 22.5,34 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="22,33.9 22.4,33.9 22.4,34.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="22.7,34.4 22.5,34 22.3,34 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="22.7,34.4 22.3,34.1 22.5,34 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="22.2,34.4 22.5,34.1 22.4,34 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="22.2,34.4 22.3,34 22.5,34 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.4,24.8 32.2,25.3 32.5,25.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.4,24.8 32.5,25.3 32.3,25.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.9,25.2 32.4,25.2 32.4,25.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.9,25.2 32.5,25.5 32.3,25.3 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.9,25.2 32.3,25.5 32.5,25.3 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.9,25.2 32.4,25.2 32.4,25.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.7,25.7 32.5,25.3 32.3,25.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.7,25.7 32.3,25.5 32.4,25.2 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.1,25.7 32.5,25.5 32.3,25.2 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.1,25.7 32.2,25.3 32.5,25.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="36.9,32.5 36.8,33 37,33.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="36.9,32.5 37.1,33 36.8,33.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="37.4,32.8 36.9,32.8 36.9,33.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="37.4,32.8 37,33.1 36.8,32.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="36.4,32.8 36.8,33.1 37,32.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="36.4,32.8 36.9,32.8 36.9,33.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="37.2,33.4 37.1,32.9 36.8,33 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="37.2,33.4 36.8,33.1 36.9,32.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="36.6,33.4 37,33.1 36.9,32.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="36.6,33.4 36.8,32.9 37,33 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="38.5,32.8 38.4,33.1 38.6,33.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="38.5,32.8 38.6,33.1 38.5,33.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="38.8,33 38.5,33 38.5,33.2 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="38.8,33 38.6,33.2 38.5,33.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="38.2,33 38.5,33.2 38.6,33.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="38.2,33 38.5,33 38.5,33.2 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="38.7,33.4 38.6,33.1 38.5,33.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="38.7,33.4 38.4,33.2 38.5,33 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="38.3,33.4 38.6,33.2 38.5,33 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="38.3,33.4 38.4,33.1 38.6,33.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="37.4,33.6 37.3,34 37.4,34.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="37.4,33.6 37.5,34 37.3,34.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="37.8,33.9 37.4,33.9 37.4,34.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="37.8,33.9 37.4,34.1 37.3,34 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="37,33.9 37.3,34.1 37.4,34 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="37,33.9 37.4,33.9 37.4,34.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="37.6,34.4 37.5,34 37.3,34 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="37.6,34.4 37.3,34.1 37.4,34 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="37.1,34.4 37.5,34.1 37.4,34 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="37.1,34.4 37.3,34 37.5,34 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.6,36 34.5,36.4 34.7,36.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.6,36 34.7,36.4 34.5,36.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="35,36.3 34.6,36.3 34.6,36.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="35,36.3 34.6,36.6 34.5,36.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.2,36.3 34.5,36.6 34.6,36.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.2,36.3 34.6,36.3 34.6,36.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.8,36.8 34.7,36.4 34.5,36.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.8,36.8 34.5,36.5 34.6,36.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.4,36.8 34.7,36.5 34.6,36.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.4,36.8 34.5,36.4 34.7,36.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.6,37.3 34.5,37.6 34.6,37.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.6,37.3 34.7,37.6 34.5,37.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.9,37.5 34.6,37.5 34.6,37.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.9,37.5 34.6,37.7 34.5,37.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.3,37.5 34.5,37.7 34.6,37.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.3,37.5 34.6,37.5 34.6,37.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.8,37.9 34.7,37.6 34.5,37.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.8,37.9 34.5,37.7 34.6,37.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.4,37.9 34.6,37.7 34.5,37.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.4,37.9 34.5,37.6 34.6,37.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="35.7,35.2 35.6,35.5 35.8,35.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="35.7,35.2 35.8,35.5 35.7,35.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="36.1,35.4 35.7,35.4 35.7,35.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="36.1,35.4 35.8,35.6 35.7,35.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="35.4,35.4 35.7,35.6 35.8,35.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="35.4,35.4 35.8,35.4 35.8,35.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="35.9,35.8 35.8,35.5 35.7,35.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="35.9,35.8 35.7,35.6 35.8,35.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="35.5,35.8 35.8,35.6 35.7,35.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="35.5,35.8 35.7,35.5 35.8,35.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="36.7,34.5 36.5,34.9 36.7,35 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="36.7,34.5 36.8,34.9 36.6,35 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="37.1,34.8 36.6,34.8 36.6,35 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="37.1,34.8 36.7,35.1 36.6,34.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="36.3,34.8 36.6,35.1 36.7,34.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="36.3,34.8 36.7,34.8 36.7,35 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="36.9,35.3 36.8,34.9 36.6,35 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="36.9,35.3 36.6,35 36.7,34.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="36.4,35.3 36.8,35 36.6,34.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="36.4,35.3 36.6,34.9 36.8,35 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.5,35 34.4,35.3 34.6,35.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.5,35 34.6,35.3 34.5,35.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.9,35.2 34.5,35.2 34.5,35.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.9,35.2 34.6,35.4 34.5,35.3 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.2,35.2 34.5,35.4 34.6,35.3 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.2,35.2 34.6,35.2 34.6,35.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.7,35.6 34.6,35.3 34.5,35.3 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.7,35.6 34.5,35.4 34.6,35.3 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.4,35.6 34.6,35.4 34.5,35.3 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="34.4,35.6 34.5,35.3 34.6,35.3 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="24.4,29 24.2,29.4 24.4,29.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="24.4,29 24.5,29.4 24.3,29.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="24.8,29.3 24.4,29.3 24.4,29.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="24.8,29.3 24.4,29.5 24.3,29.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="24,29.3 24.3,29.5 24.4,29.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="24,29.3 24.4,29.3 24.4,29.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="24.6,29.7 24.5,29.4 24.3,29.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="24.6,29.7 24.3,29.5 24.4,29.3 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="24.1,29.7 24.5,29.5 24.4,29.3 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="24.1,29.7 24.3,29.4 24.5,29.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.9,28 31.8,28.3 32,28.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.9,28 32,28.3 31.9,28.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.3,28.3 31.9,28.3 31.9,28.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.3,28.3 32,28.4 31.9,28.3 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.6,28.3 31.9,28.4 32,28.3 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.6,28.3 32,28.3 32,28.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.1,28.6 32,28.3 31.9,28.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.1,28.6 31.9,28.4 32,28.3 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.7,28.6 32,28.4 31.9,28.3 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.7,28.6 31.8,28.3 32,28.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.8,33.6 28.6,34.1 28.9,34.2 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.8,33.6 28.9,34.1 28.7,34.2 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="29.3,34 28.8,34 28.8,34.2 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="29.3,34 28.9,34.3 28.7,34.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.3,34 28.7,34.3 28.9,34.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.3,34 28.8,34 28.8,34.2 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="29.1,34.5 28.9,34.1 28.7,34.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="29.1,34.5 28.7,34.2 28.8,34 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.5,34.5 28.9,34.2 28.8,34 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.5,34.5 28.7,34.1 28.9,34.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="30.1,31.4 30,31.8 30.2,31.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="30.1,31.4 30.3,31.8 30.1,31.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="30.5,31.7 30.1,31.7 30.1,31.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="30.5,31.7 30.2,32 30.1,31.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="29.7,31.7 30.1,32 30.2,31.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="29.7,31.7 30.2,31.7 30.2,31.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="30.4,32.2 30.2,31.8 30.1,31.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="30.4,32.2 30,31.9 30.2,31.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="29.9,32.2 30.2,31.9 30.1,31.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="29.9,32.2 30,31.8 30.2,31.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.8,30.4 28.7,30.8 28.9,30.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.8,30.4 28.9,30.8 28.7,30.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="29.2,30.7 28.8,30.7 28.8,30.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="29.2,30.7 28.8,30.9 28.7,30.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.4,30.7 28.7,30.9 28.8,30.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.4,30.7 28.8,30.7 28.8,30.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="29,31.1 28.9,30.7 28.7,30.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="29,31.1 28.7,30.9 28.8,30.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.5,31.1 28.9,30.9 28.8,30.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.5,31.1 28.7,30.7 28.9,30.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="27.6,31.5 27.5,31.8 27.7,31.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="27.6,31.5 27.7,31.8 27.6,31.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="27.9,31.7 27.6,31.7 27.6,31.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="27.9,31.7 27.7,31.9 27.6,31.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="27.3,31.7 27.6,31.9 27.7,31.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="27.3,31.7 27.6,31.7 27.6,31.9 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="27.8,32.1 27.7,31.8 27.6,31.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="27.8,32.1 27.6,31.9 27.7,31.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="27.4,32.1 27.7,31.9 27.6,31.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="27.4,32.1 27.5,31.8 27.7,31.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.2,32.4 28.1,32.6 28.2,32.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.2,32.4 28.3,32.6 28.2,32.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.4,32.6 28.2,32.6 28.2,32.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.4,32.6 28.2,32.7 28.2,32.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28,32.6 28.2,32.7 28.2,32.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28,32.6 28.2,32.6 28.2,32.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.3,32.8 28.3,32.6 28.2,32.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.3,32.8 28.2,32.7 28.2,32.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.1,32.8 28.3,32.7 28.2,32.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.1,32.8 28.1,32.6 28.3,32.6 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.3,36.3 32.1,36.7 32.3,36.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.3,36.3 32.4,36.7 32.2,36.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.6,36.6 32.2,36.6 32.2,36.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.6,36.6 32.3,36.9 32.2,36.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.9,36.6 32.2,36.9 32.3,36.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.9,36.6 32.3,36.6 32.3,36.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.5,37.1 32.4,36.7 32.2,36.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.5,37.1 32.2,36.8 32.3,36.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32,37.1 32.3,36.8 32.2,36.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32,37.1 32.1,36.7 32.3,36.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="33.3,35.4 33.1,35.7 33.3,35.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="33.3,35.4 33.4,35.7 33.2,35.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="33.6,35.6 33.2,35.6 33.2,35.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="33.6,35.6 33.3,35.8 33.2,35.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.9,35.6 33.2,35.8 33.3,35.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="32.9,35.6 33.3,35.6 33.3,35.8 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="33.4,36 33.3,35.7 33.2,35.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="33.4,36 33.2,35.8 33.3,35.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="33.1,36 33.3,35.8 33.2,35.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="33.1,36 33.2,35.7 33.3,35.7 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.3,35.1 31.2,35.4 31.4,35.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.3,35.1 31.4,35.4 31.3,35.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.7,35.3 31.3,35.3 31.3,35.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.7,35.3 31.4,35.5 31.3,35.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31,35.3 31.3,35.5 31.4,35.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31,35.3 31.4,35.3 31.4,35.5 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.5,35.7 31.4,35.4 31.3,35.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.5,35.7 31.3,35.5 31.4,35.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.1,35.7 31.4,35.5 31.3,35.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="31.1,35.7 31.2,35.4 31.4,35.4 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="24.1,34.6 24,35.1 24.2,35.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="24.1,34.6 24.3,35.1 24.1,35.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="24.6,34.9 24.1,34.9 24.1,35.2 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="24.6,34.9 24.2,35.2 24.1,35 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="23.7,34.9 24.1,35.2 24.2,35 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="23.7,34.9 24.2,34.9 24.2,35.2 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="24.4,35.5 24.3,35 24.1,35.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="24.4,35.5 24,35.2 24.2,35 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="23.8,35.5 24.2,35.2 24.1,35 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="23.8,35.5 24,35 24.2,35.1 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.8,37.8 28.7,38 28.8,38 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.8,37.8 28.8,38 28.8,38 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="29,37.9 28.8,37.9 28.8,38 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="29,37.9 28.8,38 28.8,38 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.6,37.9 28.8,38 28.8,38 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.6,37.9 28.8,37.9 28.8,38 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.9,38.1 28.8,38 28.8,38 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.9,38.1 28.8,38 28.8,38 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.7,38.1 28.8,38 28.8,38 							"/>
+							<polygon style="clip-path:url(#SVGID_6_);fill:#FFFFFF;" points="28.7,38.1 28.7,38 28.8,38 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="ALMACEN" class="st132">
+</g>
+<g id="GUIAS" class="st132">
+</g>
+</svg>

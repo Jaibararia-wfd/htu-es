@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 178 177" style="enable-background:new 0 0 178 177;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#3C2F16;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{fill:#ED2939;}
+	.st3{fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M4.1,79.2c-5.3,53.2,39.1,97.6,92.3,92.3c39.4-3.9,71.3-35.8,75.2-75.2C176.9,43.1,132.5-1.3,79.3,4
+			C39.9,7.9,8,39.8,4.1,79.2z"/>
+	</g>
+	<g>
+		<defs>
+			<ellipse id="SVGID_1_" cx="88.4" cy="88.5" rx="69.7" ry="68.3"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st1">
+			<rect x="17.8" y="19.5" class="st2" width="212.3" height="70.8"/>
+			<rect x="17.8" y="90.2" class="st3" width="212.3" height="70.8"/>
+			<path class="st3" d="M90.6,54.8c0,14.7-11.9,26.6-26.6,26.6S37.4,69.5,37.4,54.8S49.3,28.2,64,28.2S90.6,40.1,90.6,54.8z"/>
+			<path class="st2" d="M98.9,54.8C98.9,68.7,87.7,80,73.8,80S48.7,68.7,48.7,54.8s11.3-25.1,25.1-25.1S98.9,41,98.9,54.8z"/>
+			<path id="star" class="st3" d="M67.3,55.5l-3.6-2.8L60,55.5l1.4-4.5l-3.6-2.8l4.5,0l1.4-4.5l1.4,4.5l4.5,0L65.9,51L67.3,55.5z"/>
+			<g transform="translate(577.18853,0)">
+				<path id="star_1_" class="st3" d="M95.6,55.5L92,52.7l-3.6,2.8l1.4-4.5l-3.6-2.8l4.5,0l1.4-4.5l1.4,4.5l4.5,0L94.2,51L95.6,55.5
+					z"/>
+			</g>
+			<g transform="translate(288.88853,-214.21117)">
+				<path id="star_2_" class="st3" d="M81.5,45l-3.6-2.8L74.2,45l1.4-4.5L72,37.7l4.5,0l1.4-4.5l1.4,4.5l4.5,0l-3.6,2.8L81.5,45z"/>
+			</g>
+			<g transform="translate(107.99953,342.74883)">
+				<path id="star_3_" class="st3" d="M72.6,72.3L69,69.6l-3.6,2.8l1.4-4.5l-3.6-2.8l4.5,0l1.4-4.5l1.4,4.5l4.5,0l-3.6,2.8
+					L72.6,72.3z"/>
+			</g>
+			<g transform="translate(469.18853,342.74883)">
+				<path id="star_4_" class="st3" d="M90.3,72.3l-3.6-2.8l-3.6,2.8l1.4-4.5l-3.6-2.8l4.5,0l1.4-4.5l1.4,4.5l4.5,0l-3.6,2.8
+					L90.3,72.3z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

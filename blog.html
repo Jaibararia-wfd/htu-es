@@ -1,0 +1,86 @@
+---
+layout: default
+title: Abortion Pill Blog | Facts & Info About the Abortion Pill | HTU
+tab_title: Abortion Pill Blog | Facts & Info About the Abortion Pill | HTU
+namespace: htublog
+permalink: /blog/
+description: "The HowToUse blog: discussing the safe use of abortion pills, medical abortion in the news, and women's reproductive right to terminate a pregnancy."
+ref: blog
+---
+
+
+<!-- lang: en_US
+permalink_fr: /blog-avortement-médicamenteux/ -->
+
+
+<h1>Blogs</h1>
+{% assign cover_blog = false %}
+{% if site.posts.size==0 %}
+<p>No Blogs Found</p>
+{% else %}
+	  {% for post in site.posts %}
+	  	{% if cover_blog == false %}
+	  		{% assign cover_blog = true %}
+	  		<div class="blog-cover resp_desk">
+	  			<div class="row">
+	    			<div class="col-6">
+	      				<img class="img-post" src="{{ post.image }}" alt="{{ post.alt }}">
+	    			</div>
+				    <div class="col-6 page-item">
+				      	<div class="row">
+				          	<div class="col-6">
+				            	<span class="span-latest">{% t blog.latest %}</span>
+				          	</div>
+				          	<div class="col-6 right">
+				            	<span class="blog-date">{{ post.date  | date: '%d %b, %Y'}}</span>
+				          	</div>
+				      	</div>
+				      	<h2 class="blog-main-title">{{ post.post-heading }}</h2>
+				      	<p class="text-des-2">{{ post.description }}</p>
+				      	<p><a href="{{ site.url }}{{site.baseurl}}{{ post.url }}"><span class="violet">{% t blog.readmore %}</span></a></p>
+				    </div>
+				</div>
+			</div>
+
+			<div class="blog-cover resp_cell">
+			  	<div class="container">
+			    	<div class="row">
+			      		<div class="col-6">
+			        		<span class="blog-date">{{ post.date   | date: '%d %b, %Y'}}</span>
+			      		</div>
+			      		<div class="col-6 right">
+			        		<span class="span-latest">{% t blog.latest %}</span>
+			      		</div>
+			    	</div>
+			    	<h2 class="blog-title">{{ post.post-heading }}</h2>
+			    	<img class="img-single-post" src="{{ post.image }}" alt="{{ post.alt }}">
+			    	<p class="text-des-2">{{ post.description }}</p>
+			    	<p><a href="{{ site.url }}{{site.baseurl}}{{ post.url }}"><span class="violet">{% t blog.readmore %}</span></a></p>
+			  	</div>
+			</div>
+
+			<hr>
+
+			
+			{% else %}
+				<div class="blog-feed">
+
+				  	<div class="post-archive">
+				    	<div class="row">
+				    	  <div class="col col-md-4 col-sx-6 resp_desk">
+				        	<img class="img-feed" src="{{ post.image }}" alt="{{ post.alt }}">
+				      		</div>
+				      		<div class="col col-md-8 col-sx-6">
+				        		<span class="blog-date">{{ post.date   | date: '%d %b, %Y'}}</span>
+				        		<h2 class="feed-titles">{{ post.post-heading }}</h2>
+				        		<img class="img-feed resp_cell" src="{{ post.image }}" alt="{{ post.alt }}">
+				        		<p class="text-des-2">{{ post.description }}</p>
+				        		<p><a href="{{ site.url }}{{site.baseurl}}{{ post.url }}"><span class="violet">{% t blog.readmore %}</span></a></p>
+				      		</div>
+				    	</div>
+				  	</div>
+
+				</div>
+			{% endif %}
+	  {% endfor %}
+  {% endif %}

@@ -1,0 +1,7 @@
+User-agent: Twitterbot
+Disallow:
+
+User-Agent: *
+Disallow:
+
+Sitemap: https://www.howtouseabortionpill.org/sitemap.xml

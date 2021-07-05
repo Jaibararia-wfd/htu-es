@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<div class="blog-cover resp_desk">
+    <div class="row">
+        <div class="col-6">
+          <div class="row">
+            <div class="col-7">
+              <span class="blog-date">{{ page.date | date: '%d %b, %Y'}}</span>
+            </div>
+            <div class="col-5">
+              {%  include share-post.html %} 
+            </div>
+          </div>
+          <h1 class="blog-title">{{ page.post-heading }}</h1>
+          <p>{% t blog.author %} {{ page.author }}</p>
+        </div>
+        <div class="col-6">
+            <img class="img-single-post" src="{{ page.image }}" alt="{{ page.alt }}">
+        </div>
+    </div>
+</div>
+
+<div class="blog-cover resp_cell">
+  <div class="container">
+    <div class="row">
+      <div class="col-6">
+        <span class="blog-date">{{ page.date | date: '%d %b, %Y' }}</span>
+      </div>
+      <div class="col-6">
+        {%  include share-post.html %} 
+      </div>
+    </div>
+    <h1 class="blog-title">{{ page.post-heading }}</h1>
+    <p>{% t blog.author %} {{ page.author }}</p>
+    <img class="img-single-post" src="{{ page.image }}" alt="{{ page.alt }}">
+  </div>
+</div>
+
+<div class="blog-paper">
+  {{ content }}
+</div>

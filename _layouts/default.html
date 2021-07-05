@@ -1,0 +1,227 @@
+{% capture entry %}{{ site.translations[site.lang].country-profile[page.country] }}{% endcapture %}
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="/images/favicon.png" type="image/png" sizes="121x121">
+    <meta charset="utf-8">
+    {% if page.url contains '/online-courses/' or page.url contains '/blog/' %}
+    <link rel="canonical" href='{{ site.url }}{{ site.baseurl }}{{ page.url }}'>
+    {% elsif page.layout == "countryprofile" and entry == "" %}
+    <link rel="canonical" href='{{ site.url }}{{ page.url }}'>
+    {% elsif page.layout == "countryprofile" and entry != "" %}
+    <link rel="canonical" href='{{ site.url }}{{ site.baseurl }}{{ page.url }}'>
+    {% else %}
+    <link rel="canonical" href='{{ site.url }}{{ site.baseurl }}{{ page.url }}'>
+    <link rel="amphtml" href='https://amp.howtouseabortionpill.org{{ site.baseurl }}{{ page.url }}'>
+    {% endif %}
+    
+    {% assign seodata = page.ref %}
+    <title>{% if page.ref %}{% t {{seodata}}.pagetitle %}{% else %}{{page.title}}{% endif %} </title>
+    <meta name="description" content="{% if page.ref %}{% t {{seodata}}.metadescription %}{% else %}{{ page.description }}{% endif %}">
+
+    <meta name="author" content="How to use abortion pill" />
+    {% include seo/locale.html %}
+    <meta property="og:title" content="{% if page.ref %}{% t {{seodata}}.pagetitle %}{% else %}{{page.title}}{% endif %}"/>
+    <meta property="og:description" content="{% if page.ref %}{% t {{seodata}}.metadescription %}{% else %}{{ page.description }}{% endif %}"/>
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}"/>
+    <meta property="og:site_name" content="{{ site.title }}"/>
+    <meta property="og:image" content="{{ site.url }}/images/blog/{{ page.image }}"/>
+    <meta property="og:image:width" content="500" />
+    <meta property="og:image:height" content="260" />
+    <!-- Twitter cards -->
+    <meta name="twitter:site"    content="{{ site.author.twitter.username }}">
+    <meta name="twitter:creator" content="{{ site.author.name }}">
+    <meta name="twitter:title"   content="{% if page.ref %}{% t {{seodata}}.pagetitle %}{% else %}{{page.title}}{% endif %}">
+    <meta name="twitter:description" content="{% if page.ref %}{% t {{seodata}}.metadescription %}{% else %}{{ page.description }}{% endif %}">
+    <meta name="twitter:card"  content="summary_large_image">
+    <meta name="twitter:image" content="{{ site.url }}/images/blog/{{ page.image }}">
+    <!-- end of Twitter cards -->
+
+    
+    <link rel="stylesheet" async href="/assets/css/styles.css">
+    <link rel="preload" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js">
+    <!-- <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js" integrity="sha384-SlE991lGASHoBfWbelyBPLsUlwY1GwNDJo3jSJO04KZ33K2bwfV9YBauFfnzvynJ" crossorigin="anonymous"></script> -->
+    <script src="https://use.fontawesome.com/releases/v5.14.0/js/all.js" defer crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    {% if page.url == "/" %}
+    <link rel="alternate" hreflang="x-default" href="{{ site.url }}" />
+    {% else %}
+    <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ page.url }}" />
+    {% endif %}
+    {% if page.languages %}
+    {% for planguage in page.languages %}
+    {% if planguage == "es" %}
+    <link rel="alternate" hreflang="es" href="{{ site.url }}{{ page.url }}" />
+    {% else %}
+    <link rel="alternate" hreflang="{{ planguage }}" href="{{ site.url }}/{{ planguage }}{{ page.url }}" />
+    {% endif %}
+    {% endfor %} 
+    {% else %}
+    {% for language in site.data.lang %}
+    {% if language.lang == "es" %}
+    <link rel="alternate" hreflang="es" href="{{ site.url }}{{ page.url }}" />
+    {% else %}
+    <link rel="alternate" hreflang="{{ language.lang }}" href="{{ site.url }}/{{ language.lang }}{{ page.url }}" />
+    {% endif %}  
+    {% endfor %}
+    {% endif %}
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-67503712-1', 'auto');
+      ga('send', 'pageview');
+
+      var trackOutboundLink = function(url) {
+         ga('send', 'event', 'outbound', 'click', url, {
+           'transport': 'beacon',
+           'hitCallback': function(){document.location = url;}
+         });
+      }
+
+    </script>
+    <!-- Begin Inspectlet Asynchronous Code -->
+    <script type="text/javascript">
+    (function() {
+    window.__insp = window.__insp || [];
+    __insp.push(['wid', 1556228530]);
+    var ldinsp = function(){
+    if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js?wid=1556228530&r=' + Math.floor(new Date().getTime()/3600000); var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
+    setTimeout(ldinsp, 0);
+    })();
+    </script>
+    <!-- End Inspectlet Asynchronous Code -->
+  </head>
+  <body>
+  	{% include navigation.html %}
+  <div class="container-page">
+    {{ content }}
+  </div>
+    {% include footer.html %}
+
+   {% if page.ref == 'before' %} 
+    <script type="text/javascript">
+      var lastPeriod = document.getElementById('lastPeriod');
+      console.log(lastPeriod)
+          function lastPeriodAfter(){
+              var monthNames = [
+                "January", "February", "March",
+                "April", "May", "June", "July",
+                "August", "September", "October",
+                "November", "December"
+              ];
+              var today = new Date();
+              today.setDate(today.getDate()-91);
+              var day = today.getDate();
+              var monthIndex = today.getMonth();
+              var year = today.getFullYear();
+              lastPeriod.innerHTML = monthNames[monthIndex]+'  '+day+', '+'  '+year;
+              }
+      
+              lastPeriodAfter();
+      </script>
+      {% endif %}
+
+  <script>
+    function GetURLParameter(sParam) {
+        var sPageURL = window.location.search.substring(1);
+        sPageURL = decodeURI(sPageURL);
+        var sURLVariables = sPageURL.split('?');
+        for (var i = 0; i < sURLVariables.length; i++) {
+            var sParameterName = sURLVariables[i].split('=');
+            if (sParameterName[0] == sParam) {
+                return sParameterName[1];
+            }
+        }
+    }
+  </script>
+
+  <script type="text/javascript">
+      haptikInitSettings = {
+          'business-id':2779,
+          'business-via-name': 'howtousewebchannel',
+          'client-id': 'db550ddd22cef4d88951efcdabf16d2e5fa4de5a',
+          'base-url': 'https://howtouse.haptikapi.com/',
+          'default-language': 'en', // set this to load the bot in default language
+          //'ignore-storage': true,
+          //'debug': true,
+          //'show-user-feedback': true,
+          //'user-feedback-tags': { 'positive': ['Seemed human', 'Easy to understand', 'It was relevant', 'That was fast'], 'negative': ['Unrelated response', 'Delayed response', 'Repetitive response', 'Unhelpful message'] },
+          //'user-feedback-questions': { 'positive': 'Yay! What did you like?', 'negative': 'Sorry about that. What went wrong?', },
+          
+      };
+      function openChat(){
+        HaptikSDK.expandWidget();
+      }
+      </script>
+      <script type="text/javascript" charset="UTF-8" src="https://toolassets.haptikapi.com/platform/javascript-xdk/production/loader.js"></script>
+
+      <script>
+      let changed_language = localStorage.getItem("bot_language")
+
+      let lang_code = ['hi', 'fr'] // Add more languages supported by the chatbot in future.
+
+      let sPageURL = window.location
+      sPageURL = decodeURI(sPageURL);
+
+      let sURLVariable = sPageURL.split('/')[3];
+
+      if (sURLVariable != null && sURLVariable != changed_language && (lang_code.indexOf(sURLVariable) >= 0)){
+        localStorage.setItem("bot_language", sURLVariable);
+        document.addEventListener('haptik_sdk', function() {
+          HaptikSDK.changeLanguage(sURLVariable)
+        });
+      }
+      else if ((lang_code.indexOf(sURLVariable) == -1) && changed_language != 'en') {
+        localStorage.setItem("bot_language", 'en');
+        document.addEventListener('haptik_sdk', function() {
+        HaptikSDK.changeLanguage('en')
+        }); 
+      }
+  </script>
+
+  <script>
+    $(document).ready(function(){
+      $("#btn-country").click(function(){
+        $("#dropdown-country").toggle();
+      });
+    });
+  </script>
+
+  <script>
+    $(document).ready(function(){
+      $("#btn-index").click(function(){
+        $("#dropdown-index").toggle();
+      });
+    });
+  </script>
+
+  <script>
+
+       //Script onlice courses
+        $('.panel-collapse').on('show.bs.collapse', function () {
+          $(this).siblings('.item-accordion').addClass('active');
+        });
+
+        $('.panel-collapse').on('hide.bs.collapse', function () {
+          $(this).siblings('.item-accordion').removeClass('active');
+        });
+
+        $('.list-accordion a li').click(function(){
+            $('a').removeClass("item-active");
+            $(this).addClass("item-active");
+        });
+
+
+  </script>
+
+
+  </body>
+</html>

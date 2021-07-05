@@ -1,0 +1,16 @@
+- title: Instructions for a Safe Medical Abortion with pills.
+  description: Learn how to use abortion medication to safely and effectively end a pregnancy.
+  botton: LEARN MORE
+  img: /images/woman_stu.png
+  link: /howto/
+- title: Abortion in Your Country
+  description: Learn about abortion care where you live
+  label: Select Country
+  botton: SEARCH
+  link: /regions/
+  img: /images/woman_stu.png
+- title: Safe Abortion Training and Education
+  description: Learn more about abortion care through our videos or certificated coruses
+  botton: LEARN MORE
+  link: /online-courses/
+  img: /images/woman_stu.png

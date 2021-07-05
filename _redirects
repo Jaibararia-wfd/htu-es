@@ -1,0 +1,5 @@
+/abortion-pill-between-10-and-11-weeks/	/abortion-pill-between-10-and-13-weeks/
+/regions	/abortion-laws-by-country/
+/regions/:continent/:country/	/abortion-laws-by-country/:country/
+/faq/:category/:question	/faq/:category/#:question
+/:lang/posts-archive/:year/:month/	/:lang/blog/

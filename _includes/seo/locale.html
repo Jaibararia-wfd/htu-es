@@ -1,0 +1,55 @@
+{%if  site.lang == 'es' || page.url contains '/es/' %}
+    <meta property="og:locale" content="es_ES"/>
+{% elsif site.lang == 'ar' || page.url contains '/ar/' %}
+    <meta property="og:locale" content="ar_AR"/>
+{% elsif site.lang == 'pt' || page.url contains '/pt/' %}
+    <meta property="og:locale" content="pt_PT"/>
+{% elsif site.lang == 'fr' || page.url contains '/fr/' %}
+    <meta property="og:locale" content="fr_FR"/>
+{% elsif site.lang == 'el' || page.url contains '/el/' %}
+    <meta property="og:locale" content="el_EL"/>
+{% elsif site.lang == 'am'  || page.url contains '/am/'%}
+    <meta property="og:locale" content="am_AM"/>
+{% elsif site.lang == 'hi'|| page.url contains '/hi/' %}
+    <meta property="og:locale" content="hi_HI"/>
+{% elsif site.lang == 'id' || page.url contains '/id/'%}
+    <meta property="og:locale" content="id_ID"/>
+{% elsif site.lang == 'ru' || page.url contains '/ru/'%}
+    <meta property="og:locale" content="ru_RU"/>
+{% elsif site.lang == 'so' || page.url contains '/so/' %}
+    <meta property="og:locale" content="so_SO"/>
+{% elsif site.lang == 'tl' || page.url contains '/tl/'%}
+    <meta property="og:locale" content="tl_TL"/>
+{% elsif site.lang == 'tr' || page.url contains '/tr/' %}
+    <meta property="og:locale" content="tr_TR"/>
+{% elsif site.lang == 'vi' || page.url contains '/vi/'%}
+    <meta property="og:locale" content="vi_VI"/>
+{% elsif site.lang == 'fa' || page.url contains '/fa/'%}
+    <meta property="og:locale" content="fa_FA"/>
+{% elsif site.lang == 'ha' || page.url contains '/ha/'%}
+    <meta property="og:locale" content="ha_HA"/>
+{% elsif site.lang == 'ne'|| page.url contains '/ne/' %}
+    <meta property="og:locale" content="ne_NE"/>
+{% elsif site.lang == 'ur' || page.url contains '/ur/'%}
+    <meta property="og:locale" content="ur_UR"/>
+{% elsif site.lang == 'my'|| page.url contains '/my/' %}
+    <meta property="og:locale" content="my_MY"/>
+{% elsif site.lang == 'lg' || page.url contains '/lg/'%}
+    <meta property="og:locale" content="lg_LG"/>
+{% elsif site.lang == 'zh' || page.url contains '/zh/'%}
+    <meta property="og:locale" content="zh_ZH"/>
+{% elsif site.lang == 'sw' || page.url contains '/sw/'%}
+    <meta property="og:locale" content="sw_SW"/>
+{% elsif site.lang == 'km'|| page.url contains '/km/' %}
+    <meta property="og:locale" content="km_KM"/>
+{% elsif site.lang == 'th'|| page.url contains '/th/' %}
+    <meta property="og:locale" content="th_TH"/>
+{% elsif site.lang == 'yo'|| page.url contains '/yo/' %}
+    <meta property="og:locale" content="yo_YO"/>
+{% elsif site.lang == 'pi'|| page.url contains '/pi/' %}
+    <meta property="og:locale" content="pi_NG"/>
+{% elsif site.lang == 'bn'|| page.url contains '/bn/' %}
+    <meta property="og:locale" content="bn_BD"/>
+{% else%}
+    <meta property="og:locale" content="en_EN"/>
+{% endif %}

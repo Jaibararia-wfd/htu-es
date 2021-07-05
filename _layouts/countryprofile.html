@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+{% assign profile = page.country %}
+{% assign region = "country-profile" %}
+{% capture entry %}{{region}}.{{profile}}.questions{% endcapture %}
+
+{% assign num = page.numofquestions %}
+
+<div>
+    <ul class="bread-crumb">
+        <li><a class="violet" href="{% tl hturegions %}">{% t regions.tabtext %}</a></li>
+        <img src="/images/breadcrumb.png" alt="breadcrumb"><li>{{ page.region }}</li>
+        <img src="/images/breadcrumb.png" alt="breadcrumb"><li class="country-name">{% t {{region}}.{{profile}}.name %}</li>
+      </ul>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <h1 class="page-title">{% t {{region}}.{{profile}}.title %}</h1>
+            <p class="text-des-2">{% t {{region}}.{{profile}}.intro %}</p>
+        </div>    
+    </div>
+</div>
+
+<div class="container info-region">
+    {% for i in (1..num) %}
+        <div class="info-section">
+            <div class="row">
+                <div class="col-12 col-sm-12 indent">
+                    <h2 class="bold"><img class="icon-region" src="{% cycle '/images/safe.png', '/images/medical.png', '/images/shop.png', '/images/shop.png', '/images/shop.png', '/images/pill.png', '/images/shop.png', '/images/info.png' %}" alt="Safe and secure">{% t {{entry}}.ques{{i}} %}</h2>
+                    {% t {{entry}}.ans{{i}} %}
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
+{% if page.source == true %}
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="cont-references">
+                    <h4>{% t {{region}}.{{profile}}.source %}</h4>
+                    <ul>
+                        <li>{% t {{region}}.{{profile}}.sourcetext %}</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endif %}

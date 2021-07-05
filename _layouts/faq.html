@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="sec-bread">
+  <ul class="bread-crumb">
+    <li><a class="violet" href="{% tl htufaqs %}">{% t faqs.faqs_breadcrumb %}</a></li>
+    {% assign faq_breadcrumb = page.faq_ref %}
+    <img src="/images/breadcrumb.png" alt="breadcrumb"><li>{% t {{faq_breadcrumb}} %}</li>
+  </ul>
+</div>
+
+{{ content }}
+{% include faqs/references.html %}

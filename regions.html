@@ -1,0 +1,261 @@
+---
+layout: default
+title: Abortion Facts and Legality by Country | HTU
+tab_title: Abortion Facts and Legality by Country | HTU
+namespace: hturegions
+permalink: /abortion-laws-by-country/
+description: Abortion law is very region specific. That's why we compiled a list of facts on legality, cost and service providers on a country-by-country basis.
+author: How to use abortion pill
+ref: regions
+---
+
+<!-- lang: ["en_US", "es_ES", "fr_FR", "pt_PT"]
+permalink_es: /comprar-pastillas-abortivas/
+permalink_fr: /lois-acheter-la-pilule/
+permalink_pt: /aborto-por-regiao/ -->
+
+<div class="container center">
+    <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-12">
+            <h1 class="page-title">{% t regions.header %}</h1>
+            <p class="text-des-1">{% t regions.text1 %}</p>
+            <div class="select-country">
+                <div class="dropdown">
+                    <button id="btn-country" class="dropbtn-2">{% t regions.select %}<i class="fas fa-chevron-down pull-right"></i></button>
+                    <div id="dropdown-country" class="dropdown-content-2">
+                        {% if site.translations[site.lang].country-profile.australia %}
+                        <a class="list-country" href="{% tl htuaustralia %}"><img src="/images/flags/Flag_Australia.svg" class="icon-flag" alt="Flag_Australia">{% t country-profile.australia.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.argentina %}
+                        <a class="list-country" href="{% tl htuargentina %}"><img src="/images/flags/Flag_Argentina.svg" class="icon-flag flag-bigger" alt="Flag_Argentina">{% t country-profile.argentina.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.bangladesh %}
+                        <a class="list-country" href="{% tl htubangladesh %}"><img src="/images/flags/Flag_bangladesh.svg" class="icon-flag" alt="Flag_Bangladesh">{% t country-profile.bangladesh.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.benin %}
+                        <a class="list-country" href="{% tl htubenin %}"><img src="/images/flags/Flag_Benin.svg" class="icon-flag" alt="Flag-Benin">{% t country-profile.benin.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.bolivia %}
+                        <a class="list-country" href="{% tl htubolivia %}"><img src="/images/flags/blank48.png" class="icon-flag" alt="Flag-Bolivia">{% t country-profile.bolivia.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.botswana %}
+                        <a class="list-country" href="{% tl htubotswana %}"><img src="/images/flags/Botswana_flag.svg" class="icon-flag" alt="Flag-Botswana">{% t country-profile.botswana.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.brazil %}
+                        <a class="list-country" href="{% tl htubrazil %}"><img src="/images/flags/Flag_Brazil.svg" class="icon-flag" alt="Flag_Brazil">{% t country-profile.brazil.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.burkina-faso %}
+                        <a class="list-country" href="{% tl htuburkinafaso %}"><img src="/images/flags/Flag_BurkinaFaso.svg" class="icon-flag" alt="Flag-Burkina-Faso">{% t country-profile.burkina-faso.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.cambodia %}
+                        <a class="list-country" href="{% tl htucambodia %}"><img src="/images/flags/Flag_Cambodia.svg" class="icon-flag" alt="Flag_Cambodia">{% t country-profile.cambodia.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.cameroon %}
+                        <a class="list-country" href="{% tl htucameroon %}"><img src="/images/flags/Flag_Cameroon.svg" class="icon-flag flag-bigger" alt="Flag-Cameroon">{% t country-profile.cameroon.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.chile %}
+                        <a class="list-country" href="{% tl htuchile %}"><img src="/images/flags/blank48.png" class="icon-flag" alt="Flag-Chile">{% t country-profile.chile.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.colombia %}
+                        <a class="list-country" href="{% tl htucolombia %}"><img src="/images/flags/Flag_Colombia.svg" class="icon-flag" alt="Flag_Colombia">{% t country-profile.colombia.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.cote %}
+                        <a class="list-country" href="{% tl htucote %}"><img src="/images/flags/Flag_Cote_d_Ivoire.svg" class="icon-flag flag-bigger" alt="Flag_Cote_d_Ivoire">{% t country-profile.cote.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.dominican %}
+                        <a class="list-country" href="{% tl htudominican %}"><img src="/images/flags/blank48.png" class="icon-flag" alt="Flag-Dominican_Repulic">{% t country-profile.dominican.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.drc %}
+                        <a class="list-country" href="{% tl htudrc %}"><img src="/images/flags/Flag_DRC.svg" class="icon-flag" alt="Flag-DRC">{% t country-profile.drc.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.ecuador %}
+                        <a class="list-country" href="{% tl htuecuador %}"><img src="/images/flags/blank48.png" class="icon-flag" alt="Flag-Ecuador">{% t country-profile.ecuador.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.el-salvador %}
+                        <a class="list-country" href="{% tl htuelsalvador %}"><img src="/images/flags/blank48.png" class="icon-flag" alt="Flag-El Salvador">{% t country-profile.el-salvador.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.ethiopia %}
+                        <a class="list-country" href="{% tl htuethiopia %}"><img src="/images/flags/Flag_Amharic.svg" class="icon-flag" alt="Flag-Ethiopia">{% t country-profile.ethiopia.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.ghana %}
+                        <a class="list-country" href="{% tl htughana %}"><img src="/images/flags/Flag_Ghana.svg" class="icon-flag" alt="Flag_Ghana">{% t country-profile.ghana.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.guatemala %}
+                        <a class="list-country" href="{% tl htuguatemala %}"><img src="/images/flags/blank48.png" class="icon-flag" alt="Flag-Guatemala">{% t country-profile.guatemala.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.guinea %}
+                        <a class="list-country" href="{% tl htuguinea %}"><img src="/images/flags/Flag_Guinea.svg" class="icon-flag" alt="Flag_Guinea">{% t country-profile.guinea.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.honduras %}
+                        <a class="list-country" href="{% tl htuhonduras %}"><img src="/images/flags/blank48.png" class="icon-flag" alt="Flag-Honduras">{% t country-profile.honduras.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.india %}
+                        <a class="list-country" href="{% tl htuindia %}"><img src="/images/flags/Flag_Hindi.svg" class="icon-flag" alt="Flag_Hindi">{% t country-profile.india.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.indonesia %}
+                        <a class="list-country" href="{% tl htuindonesia %}"><img src="/images/flags/Flag_Indonesian.svg" class="icon-flag" alt="Flag_Indonesia">{% t country-profile.indonesia.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.iran %}
+                        <a class="list-country" href="{% tl htuiran %}"><img src="/images/flags/Flag_Iran.svg" class="icon-flag" alt="Flag_Iran">{% t country-profile.iran.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.kenya %}
+                        <a class="list-country" href="{% tl htukenya %}"><img src="/images/flags/Flag_Swahili.svg" class="icon-flag" alt="Flag_Kenya">{% t country-profile.kenya.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.liberia %}
+                        <a class="list-country" href="{% tl htuliberia %}"><img src="/images/flags/Flag_Liberia.svg" class="icon-flag" alt="Flag_Liberia">{% t country-profile.liberia.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.malawi %}
+                        <a class="list-country" href="{% tl htumalawi %}"><img src="/images/flags/Flag_Malawi.svg" class="icon-flag" alt="Flag_Malawi">{% t country-profile.malawi.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.malaysia %}
+                        <a class="list-country" href="{% tl htumalaysia %}"><img src="/images/flags/Flag_Malaysia.svg" class="icon-flag" alt="Flag_Malaysia">{% t country-profile.malaysia.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.mali %}
+                        <a class="list-country" href="{% tl htumali %}"><img src="/images/flags/Flag_Mali.svg" class="icon-flag" alt="Flag_Mali">{% t country-profile.mali.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.mexico %}
+                        <a class="list-country" href="{% tl htumexico %}"><img src="/images/flags/Flag_Mexico.svg" class="icon-flag" alt="Flag_Mexico">{% t country-profile.mexico.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.mozambique %}
+                        <a class="list-country" href="{% tl htumozambique %}"><img src="/images/flags/Flag_Mozambique.svg" class="icon-flag" alt="Flag_Mozambique">{% t country-profile.mozambique.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.myanmar %}
+                        <a class="list-country" href="{% tl htumyanmar %}"><img src="/images/flags/Flag_Myanmar.svg" class="icon-flag" alt="Flag_Myanmar">{% t country-profile.myanmar.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.namibia %}
+                        <a class="list-country" href="{% tl htunamibia %}"><img src="/images/flags/Flag_Namibia.svg" class="icon-flag" alt="Flag_namibia">{% t country-profile.namibia.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.nepal %}
+                        <a class="list-country" href="{% tl htunepal %}"><img src="/images/flags/Flag_Nepali.svg" class="icon-flag" alt="Flag_Nepal">{% t country-profile.nepal.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.newZealand %}
+                        <a class="list-country" href="{% tl htunewZealand %}"><img src="/images/flags/Flag_NewZealand.svg" class="icon-flag" alt="Flag_NewZealand">{% t country-profile.newZealand.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.nicaragua %}
+                        <a class="list-country" href="{% tl htunicaragua %}"><img src="/images/flags/blank48.png" class="icon-flag" alt="Flag-Nicaragua">{% t country-profile.nicaragua.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.niger %}
+                        <a class="list-country" href="{% tl htuniger %}"><img src="/images/flags/Flag_Niger.svg" class="icon-flag" alt="Flag_Niger">{% t country-profile.niger.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.nigeria %}
+                        <a class="list-country" href="{% tl htunigeria %}"><img src="/images/flags/Flag_Nigeria.svg" class="icon-flag" alt="Flag_Nigeria">{% t country-profile.nigeria.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.pakistan %}
+                        <a class="list-country" href="{% tl htupakistan %}"><img src="/images/flags/Flag_Pakistan.svg" class="icon-flag" alt="Flag_Pakistan">{% t country-profile.pakistan.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.peru %}
+                        <a class="list-country" href="{% tl htuperu %}"><img src="/images/flags/Flag_Peru.svg" class="icon-flag flag-bigger" alt="Flag_Peru">{% t country-profile.peru.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.philippines %}
+                        <a class="list-country" href="{% tl htuphilippines %}"><img src="/images/flags/Flag_Philippines.svg" class="icon-flag" alt="Flag_Philippines">{% t country-profile.philippines.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.senegal %}
+                        <a class="list-country" href="{% tl htusenegal %}"><img src="/images/flags/Flag_Senegal.svg" class="icon-flag flag-bigger" alt="Flag_Senegal">{% t country-profile.senegal.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.sierra-leone %}
+                        <a class="list-country" href="{% tl htusierra-leone %}"><img src="/images/flags/Flag_sierra_leone.svg" class="icon-flag" alt="Flag_Sierra_Leone">{% t country-profile.sierra-leone.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.singapore %}
+                        <a class="list-country" href="{% tl htusingapore %}"><img src="/images/flags/Flag_Singapore.svg" class="icon-flag" alt="Flag_Singapore">{% t country-profile.singapore.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.south-africa %}
+                        <a class="list-country" href="{% tl htusouth-africa %}"><img src="/images/flags/Flag_SouthAfrica.svg" class="icon-flag" alt="Flag_SouthAfrica">{% t country-profile.south-africa.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.southKorea %}
+                        <a class="list-country" href="{% tl htusouthKorea %}"><img src="/images/flags/Flag_south-korea.svg" class="icon-flag" alt="Flag_SouthKorea">{% t country-profile.southKorea.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.tanzania %}
+                        <a class="list-country" href="{% tl htutanzania %}"><img src="/images/flags/Flag_Tanzania.svg" class="icon-flag" alt="Flag_Tanzania">{% t country-profile.tanzania.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.tchad %}
+                        <a class="list-country" href="{% tl htutchad %}"><img src="/images/flags/Flag_TChad.svg" class="icon-flag" alt="Flag_TChad">{% t country-profile.tchad.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.thailand %}
+                        <a class="list-country" href="{% tl htuthailand %}"><img src="/images/flags/Flag_Thailand.svg" class="icon-flag" alt="Flag_Thailand">{% t country-profile.thailand.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.togo %}
+                        <a class="list-country" href="{% tl htutogo %}"><img src="/images/flags/Flag_Togo.svg" class="icon-flag" alt="Flag_Togo">{% t country-profile.togo.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.uganda %}
+                        <a class="list-country" href="{% tl htuuganda %}"><img src="/images/flags/Flag_Uganda.png" class="icon-flag" alt="Flag_Uganda">{% t country-profile.uganda.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.uruguay %}
+                        <a class="list-country" href="{% tl htuuruguay %}"><img src="/images/flags/Flag_Uruguay.svg" class="icon-flag" alt="Flag_Uruguay">{% t country-profile.uruguay.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.usa %}
+                        <a class="list-country" href="{% tl htuusa %}"><img src="/images/flags/Flag_USA.svg" class="icon-flag flag-bigger" alt="Flag_USA">{% t country-profile.usa.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.vietnam %}
+                        <a class="list-country" href="{% tl htuvietnam %}"><img src="/images/flags/Flag_Vietnamese.svg" class="icon-flag" alt="Flag_Vietnam">{% t country-profile.vietnam.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.zambia %}
+                        <a class="list-country" href="{% tl htuzambia %}"><img src="/images/flags/Flag_Zambia.svg" class="icon-flag" alt="Flag_Zambia">{% t country-profile.zambia.name %}</a>
+                        {% endif %}
+
+                        {% if site.translations[site.lang].country-profile.zimbabwe %}
+                        <a class="list-country" href="{% tl htuzimbabwe %}"><img src="/images/flags/Flag_Zimbabwe.svg" class="icon-flag" alt="Flag_Zimbabwe">{% t country-profile.zimbabwe.name %}</a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-12 resp_desk">
+            <img id="img-regions" src="/images/regions.png" alt="Abortion in Your Country">
+        </div>
+    </div>
+</div>
